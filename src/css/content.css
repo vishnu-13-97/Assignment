@@ -1,0 +1,35 @@
+.outer-div{
+ width: 1200px;
+height: 600px;
+top: 198px;
+left: 120px;
+gap: 46px;
+opacity: 1;
+border: 1px solid black;
+
+}
+
+.heading{
+    width: 1200;
+height: 116;
+opacity: 1;
+margin-top: 0px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 900;
+font-style: Black;
+font-size: 96px;
+line-height: 100%;
+letter-spacing: 0%;
+color:#272727;
+
+
+}
+.img-style{
+
+    width: 1200px;
+height: 454px;
+border-radius: 16px;
+
+opacity: 1;
+
+}
