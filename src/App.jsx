@@ -2,7 +2,7 @@
 import Design from "./components/Design"
 import { Development } from "./components/Development"
 import Navbar from "./components/Navbar"
-import { Route, Routes } from "react-router-dom"
+import {  Route, Routes } from "react-router-dom"
 
 
 function App() {
